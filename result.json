@@ -1,0 +1,32 @@
+[
+  {
+    "price": 2.5, 
+    "oid": 1, 
+    "name": "Barry"
+  }, 
+  {
+    "price": 10.0, 
+    "oid": 7, 
+    "name": "Barry"
+  }, 
+  {
+    "price": 2.0, 
+    "oid": 4, 
+    "name": "Todd"
+  }, 
+  {
+    "price": 5.0, 
+    "oid": 2, 
+    "name": "Steve"
+  }, 
+  {
+    "price": 2.0, 
+    "oid": 3, 
+    "name": "Steve"
+  }, 
+  {
+    "price": 4.0, 
+    "oid": 6, 
+    "name": "Rodney"
+  }
+]
